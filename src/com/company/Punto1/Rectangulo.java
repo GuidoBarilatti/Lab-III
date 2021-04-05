@@ -1,4 +1,4 @@
-package com.company.Guia1;
+package com.company.Punto1;
 
 public class Rectangulo {
     double alto,ancho;

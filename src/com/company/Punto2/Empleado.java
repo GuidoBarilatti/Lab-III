@@ -1,4 +1,4 @@
-package com.company.Guia1;
+package com.company.Punto2;
 
 public class Empleado {
     private String nombre;
